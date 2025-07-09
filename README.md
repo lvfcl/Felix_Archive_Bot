@@ -2,7 +2,7 @@
 
 This is a simple Telegram bot built with [aiogram](https://docs.aiogram.dev/) that automatically sends new images from a specified folder to a Telegram group every 30 minutes.
 
-## 🚀 Features
+##  Features
 
 - Automatically scans a local folder for new image files
 - Sends media files to a Telegram group using a bot token
@@ -10,7 +10,7 @@ This is a simple Telegram bot built with [aiogram](https://docs.aiogram.dev/) th
 - Runs continuously with periodic checking (every 30 minutes)
 - Supports media formats: `.png`, `.jpg`, `.jpeg`, `.gif`, `.webp`, `.mp4`, `.jfif`
 
-## 🧾 Requirements
+##  Requirements
 
 - Python 3.7+
 - `aiogram` library
