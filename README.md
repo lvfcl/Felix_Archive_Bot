@@ -12,8 +12,7 @@ This is a simple Telegram bot built with [aiogram](https://docs.aiogram.dev/) th
 
 ##  Requirements
 
-- Python 3.7+
-- `aiogram` library
+> Requires Python 3.7+ and `aiogram` library.
 
 1. Install dependencies using:
 
@@ -21,4 +20,3 @@ This is a simple Telegram bot built with [aiogram](https://docs.aiogram.dev/) th
 pip install -r requirements.txt
 ```
 2. Fill in the config file with your data
-
